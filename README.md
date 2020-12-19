@@ -1,6 +1,6 @@
 ## Marcos Camargo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Camargo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscrcamargo
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Camargo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscrcamargo)
 [![GitHub Badge](https://img.shields.io/badge/-Marcos%20Camargo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/marcoscrcamargo)
 [![Gmail Badge](https://img.shields.io/badge/-marcoscrcamargo@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:marcoscrcamargo@gmail.com)
 
